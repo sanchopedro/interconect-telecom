@@ -1,5 +1,7 @@
 # Projeto: Interconect Telecom
 
+![Telecom image](./image/telecom.png)
+
 ## 1. Como usar
 
 - Primeiramente, instalar todas as dependências do projeto, rodando no terminal o `pip install -r requirements.txt`
