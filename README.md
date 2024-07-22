@@ -1,4 +1,4 @@
-# Projeto: Interconect Telecom
+# Projeto Interconect Telecom - Análise e Previsão de Churn de Clientes
 
 ![Telecom image](./image/telecom.png)
 
